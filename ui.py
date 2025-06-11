@@ -124,6 +124,3 @@ def main(page: ft.Page):
 			)
 	fill_grid()
 	page.update()
-
-
-ft.app(main)
