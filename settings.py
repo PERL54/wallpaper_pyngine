@@ -5,7 +5,7 @@
 """
 
 #Current stable version
-version: str = "0.2.0"
+version: str = "0.2.1"
 
 
 #Working wallpaper directory
