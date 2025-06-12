@@ -1,7 +1,7 @@
 import ctypes
 import platform
 
-def change_wallpaper(src):
+def set_wallpaper(src):
 	if platform.system() == "Windows":
 		if ctypes.windll.user32.SystemParametersInfoW(0x0014, 0, src, 3):
 			return True
