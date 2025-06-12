@@ -31,8 +31,8 @@ Check `settings.py` and change `settings.directory` where you will put your wall
 
 ### What i want to do:
 1. Add `drag&drop` support to add new pics to your folder via program.
-2. Open `preview window` when you click to image.
+2. ~~Open `preview window` when you click to image.~~
 3. Maaaaybe add `browser to find pics in web` with your current screen size.
 4. Add `multi-language support`.
 5. "Compile" project to `one .exe file`.
-6. Add `requirements.txt` file and make setup more `friendly`.
+6. ~~Add `requirements.txt` file and make setup more `friendly`.~~
